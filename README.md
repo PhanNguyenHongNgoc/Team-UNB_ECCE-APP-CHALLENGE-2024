@@ -1,6 +1,6 @@
 # Climate change predicted flood level in Fredericton, NB Explorer 
 ## by Team UNB
-Welcome to our 3D web scene exploring the critical intersection of urban expansion, flood model, and climate change. As cities worldwide experience rapid growth and development, there needs to be an attention to the flood levels impacted by climate change. This interactive platform delves into the dynamic relationship between urban expansion and flood risk within the context of a changing climate.
+Welcome to our 3D **Web Scene** exploring the critical intersection of urban expansion, flood model, and climate change. As cities worldwide experience rapid growth and development, there needs to be an attention to the flood levels impacted by climate change. This interactive platform delves into the dynamic relationship between urban expansion and flood risk within the context of a changing climate.
 
 ![Untitled](https://github.com/PhanNguyenHongNgoc/Team-UNB_ECCE-APP-CHALLENGE-2024/assets/59909619/40b69be1-5090-454a-9560-0e56b8f5a60f)
 
