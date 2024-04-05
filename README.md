@@ -96,8 +96,8 @@ The reset map orientation button allows users to return the view to its orientat
 #  References
 
 **Open Source Data**
-1. GeoNB
-2. DEM
+1. Lidar Point Cloud : https://geonb.snb.ca/geonb/
+2. Footprint building and Flood model: http://www.snb.ca/geonb1/e/DC/catalogue-E.asp
    
 **Online Articles & Websites**
 
