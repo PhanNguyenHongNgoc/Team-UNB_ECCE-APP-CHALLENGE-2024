@@ -120,7 +120,7 @@ The reset map orientation button allows users to return the view to its orientat
 7. Moncton market: https://www.cbc.ca/news/canada/new-brunswick/downtown-moncton-library-event-centre-jim-scott-1.4156257
 8. Odell Park and Odell Arboretum: https://www.ferries.ca/new-brunswick-daycation-ideas/
 9. Lighthouse overlooking the Saint John River downtown Fredericton: https://globalnews.ca/news/4859817/new-brunswick-extreme-cold-warning/
-10. Protesters
+10. Protesters: https://www.ktvq.com/news/crime-watch/protesters-rally-against-billings-daycare-after-employee-charged-with-sexual-assault-of-minor
 
 **Video**
 
