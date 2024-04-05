@@ -1,5 +1,5 @@
 # Urban Expansion Explorer by TeamUNB
-Welcome to our 3D web scene exploring the critical intersection of urban expansion, flood risk management, and climate change. As cities worldwide experience rapid growth and development, the implications for flood vulnerability are profound. This interactive platform delves into the dynamic relationship between urban expansion and flood risk within the context of a changing climate.
+Welcome to our 3D web scene exploring the critical intersection of urban expansion, flood model, and climate change. As cities worldwide experience rapid growth and development, there needs to be an attention to the flood levels impacted by climate change. This interactive platform delves into the dynamic relationship between urban expansion and flood risk within the context of a changing climate.
 
 WEB APP: https://unbgis.maps.arcgis.com/home/webscene/viewer.html?webscene=7f2d19d9373140868197d050a38e12a9
 
@@ -7,20 +7,20 @@ WEB APP: https://unbgis.maps.arcgis.com/home/webscene/viewer.html?webscene=7f2d1
 
 # The application is dedicated to
 
-**Enhanced Spatial Visualization**: Our advanced 3D mapping capabilities provide stakeholders with a comprehensive understanding of urban environments, enabling them to assess flood risks with unparalleled clarity and precision.
+**Enhanced Spatial Visualization**: Our advanced 3D mapping capabilities provide stakeholders with a comprehensive understanding of urban environments, enabling them to assess climate change related flood risks with clarity and precision.
 
 **Fostering Community Engagement**: We recognize the importance of inclusive engagement in fostering community resilience. Our application facilitates collaboration among individuals, local authorities, and urban planners, empowering communities to address the challenges posed by urban development and flooding together.
 
 **Advocating for Sustainable Urban Development**: We advocate for informed decision-making and risk-aware planning to promote sustainable urban development practices. Our application equips stakeholders with the necessary tools and insights to strike a balance between growth imperatives and environmental stewardship, fostering resilience in urban landscapes.
 
-**Commitment to Continuous Innovation**: We are committed to advancing flood prediction and urban visualization technology. Through ongoing research and development efforts, we strive to enhance the capabilities of our application, ensuring it remains a pioneering solution in the realm of urban resilience.
+**Commitment to Continuous Innovation**: We are committed to advancing flood prediction and 3D urban visualization technology. Through ongoing research and development efforts, we strive to enhance the capabilities of our application, ensuring it remains a pioneering solution in the realm of urban resilience.
 
 ## App overview
-The Urban Expansion Application will provide an overview of the predicted flood levels for the year 2100 in downtown Fredericton, New Brunswick, due to climate change. We have summarized the data for approximately (number) 3D buildings, including essential features such as building height, age, and address. These buildings are at risk of being submerged by flood events in 2100.
-Given the trends in climate change and sea level rise, urban development, including impermeable paving, is exacerbating the city's vulnerability to flooding. Factors such as heavy rainfall, rapid snowmelt, ice jams, storm surges, and climate change are increasing the risk of flooding in Fredericton in the coming decades. The integrated 3D flood model, combined with the 3D building model, offers decision-makers a strategic framework for planning and implementation. This framework includes a timeline for action to address the challenges posed by future flooding events.
+The 'Fredericton Climate Change 3D FloodWatch' will provide an overview of the predicted flood levels for the year 2100 in downtown Fredericton, New Brunswick, due to climate change. We have summarized the data for the recent buildings constructed 3D buildings in Fredericton, NB, including essential features such as flood depth, building height, age, and address. These buildings are at risk of being submerged by flood events in 2100.
+Given the trends in climate change, urban development, including impermeable paving, is exacerbating the city's vulnerability to flooding. Factors such as heavy rainfall, rapid snowmelt, ice jams, storm surges, and climate change are increasing the risk of flooding in Fredericton in the coming decades. The integrated 3D flood model, combined with the 3D building model, offers decision-makers a strategic framework for planning and implementation. This framework includes a timeline for action to address the challenges posed by future flooding events.
 
 ## Offline Map
-Utilizing the Lidar point cloud data gathered via the GONB platform, we conducted an analysis to manage urban expansion and flood risk within a 3D scene. This section elucidates the detailed process involved in processing this database and generating the 3D scene Web App.
+Utilizing the Lidar point cloud data gathered via the GEONB platform, we conducted an analysis to manage urban expansion and flood risk within a 3D scene. This section elucidates the detailed process involved in processing this database and generating the 3D scene Web App.
 
 1. Lidar Point Cloud Collection: The Lidar point cloud was systematically collected within the central area of downtown Fredericton, near the Saint John River. This strategic collection site resides within a flood zone, offering a clear depiction of flood behavior around buildings and residential areas.
 
@@ -32,11 +32,11 @@ o    First Return Points: Representing the foremost laser pulse returns, capturi
 
 ![MicrosoftTeams-image(4)](https://github.com/PhanNguyenHongNgoc/Team-UNB_ECCE-APP-CHALLENGE-2024/assets/59909619/6372e6bc-45ee-43f0-9c92-b6e70f985beb)
 
-3. Footprint Data Compilation and Urban Expansion Analysis: Historical footprint data sourced from Fredericton city archives spanning from 1631 to 2015 were collated and categorized into distinct periods to observe urban expansion trends. The previously calculated building height data was directly integrated into the footprint polygons, facilitating the extrusion of 3D buildings.
+3. Footprint Data Compilation and Urban Expansion Analysis: Historical footprint data sourced from Fredericton city archives spanning from 1631 to 2024 were collected and categorized into distinct periods to observe urban expansion trends. The previously calculated building height data was directly integrated into the footprint polygons, facilitating the extrusion of 3D buildings.
 
 ![MicrosoftTeams-image(6)](https://github.com/PhanNguyenHongNgoc/Team-UNB_ECCE-APP-CHALLENGE-2024/assets/59909619/db5de4e1-ea4f-4164-add8-4dbc7d3cb9fc)
 
-4. Predictable Flood Model Integration: A flood model depicting the projected flood scenario for 2100, obtained from the GENB platform, with an average flood height of approximately 9 meters was incorporated. Consequently, a 3D flood model was developed, reflecting a 9-meter elevation increase in water levels.
+4. Predictable Flood Model Integration: A flood model depicting the projected flood scenario for 2100, obtained from the GENB platform, with an average water level of approximately 9 meters was incorporated. Consequently, a 3D flood model was developed, reflecting a 9-meter elevation in water levels by the year 2100.
 
 ![MicrosoftTeams-image(7)](https://github.com/PhanNguyenHongNgoc/Team-UNB_ECCE-APP-CHALLENGE-2024/assets/59909619/d211dbf6-bee2-4746-9b8a-11c826a5989a)
 
